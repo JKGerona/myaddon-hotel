@@ -1,0 +1,5 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_hotel_charges","Hotel Charges","model_hotel_charges","base.group_user","1","1","1","1"
+access_hotel_roomtypes,Hotel Room Types,model_hotel_roomtypes,base.group_user,1,1,1,1
+access_hotel_rooms_user,access_hotel_rooms_user,model_hotel_rooms,base.group_user,1,1,1,1
+access_hotel_guests,Hotel Guests,model_hotel_guests,base.group_user,1,1,1,1
